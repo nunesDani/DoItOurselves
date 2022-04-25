@@ -1,0 +1,75 @@
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.exe
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.deps.json
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.runtimeconfig.json
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.AssemblyReference.cache
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfo.cs
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\refint\Projeto-Orientado-a-Objeto.dll
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.genruntimeconfig.cache
+C:\Users\DANI_\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\ref\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.exe
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.deps.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.runtimeconfig.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfo.cs
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\refint\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.genruntimeconfig.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\dotnetPOO\obj\Debug\net6.0\ref\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.exe
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.deps.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.runtimeconfig.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfo.cs
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\refint\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.genruntimeconfig.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Projeto Tech\obj\Debug\net6.0\ref\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfo.cs
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\refint\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.exe
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.deps.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.runtimeconfig.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.genruntimeconfig.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\ProjetoTech\obj\Debug\net6.0\ref\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.exe
+C:\Users\Danny\Desktop\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.deps.json
+C:\Users\Danny\Desktop\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.runtimeconfig.json
+C:\Users\Danny\Desktop\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\ProjetoTech\bin\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.AssemblyInfo.cs
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\refint\Projeto-Orientado-a-Objeto.dll
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.pdb
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\Projeto-Orientado-a-Objeto.genruntimeconfig.cache
+C:\Users\Danny\Desktop\ProjetoTech\obj\Debug\net6.0\ref\Projeto-Orientado-a-Objeto.dll
